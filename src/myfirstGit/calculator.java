@@ -2,7 +2,7 @@ package myfirstGit;
 
 public class calculator {
 
-	public calculator() {
-		
+	public void calculator2() {
+		return 0;
 	}
 }
