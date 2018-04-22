@@ -1,6 +1,6 @@
 package myfirstGit;
 
-public class calculator {
+public class cal {
 
 	public calculator() {
 		
